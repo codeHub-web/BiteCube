@@ -1,50 +1,49 @@
-# Welcome to your Expo app 👋
+# Demo Social Media Profile Editor App 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Welcome to the demo app that lets you edit your social media profile, including your profile picture, name, bio, and mood settings.
 
-## Get started
+This app is built with [React Native](https://reactnative.dev) using [Expo](https://expo.dev) to provide a smooth experience across both iOS and Android.
 
-1. Install dependencies
+## Features
+
+- **Profile Picture**: Choose and update your profile picture by picking an image from your device’s gallery.
+- **Profile Information**: Edit the first name, last name, and bio.
+- **Mood Switcher**: Choose your mood with options like Normal, Happy, Chill, and Night.
+- **Edit Mode**: Tap the Edit icon to start editing your profile details.
+
+## Getting Started
+
+To run this app on your local machine, follow these steps:
+
+1. **Clone the repository** (if you haven't already):
 
    ```bash
-   npm install
-   ```
+   git clone <your-repository-url>
+Navigate to the project directory:
 
-2. Start the app
+bash
+Copy code
+cd <project-directory>
+Install dependencies:
 
-   ```bash
-    npx expo start
-   ```
+2. **Run the following command to install all necessary packages:**
 
-In the output, you'll find options to open the app in a
+bash
+Copy code
+npm install
+Start the app:
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+3. **To start the app, run:**
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+bash
+Copy code
+npx expo start
+After this, the Expo developer tool will open in your browser, and you can scan the QR code with the Expo Go app on your mobile device. Alternatively, you can run the app in an Android/iOS simulator.
 
-## Get a fresh project
+4. **Language Used**
+React Native: The app is built using React Native, which is based on JavaScript and allows for cross-platform mobile development (iOS and Android).
 
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+5. **Resources**
+React Native Documentation
+Expo Documentation
+Image Picker API (Expo)
