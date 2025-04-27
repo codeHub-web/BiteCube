@@ -1,8 +1,9 @@
-# Demo Social Media Profile Editor App 👋
+# Demo Social Media Profile Editor Mobile App 👋
 
 Welcome to the demo app that lets you edit your social media profile, including your profile picture, name, bio, and mood settings.
 
 This app is built with [React Native](https://reactnative.dev) using [Expo](https://expo.dev) to provide a smooth experience across both iOS and Android.
+**NB : To run this mobile app you will need EXPO GO**
 
 ## Features
 
