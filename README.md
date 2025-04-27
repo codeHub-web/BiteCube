@@ -17,27 +17,23 @@ To run this app on your local machine, follow these steps:
 
 1. **Clone the repository** (if you haven't already):
 
-   ```bash
    git clone <repo-url>
 Navigate to the project directory:
 
-bash
-Copy code
 cd <project-directory>
 Install dependencies:
 
 2. **Run the following command to install all necessary packages:**
 
-bash
-Copy code
-npm install
+**cmd:**--
+"npm install".
+
 Start the app:
 
 3. **To start the app, run:**
 
-bash
-Copy code
-npx expo start
+**cmd:**--
+"npx expo start". 
 After this, the Expo developer tool will open in your browser, and you can scan the QR code with the Expo Go app on your mobile device. Alternatively, you can run the app in an Android/iOS simulator.
 
 4. **Language Used**
