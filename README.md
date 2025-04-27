@@ -18,7 +18,7 @@ To run this app on your local machine, follow these steps:
 1. **Clone the repository** (if you haven't already):
 
    ```bash
-   git clone <your-repository-url>
+   git clone <repo-url>
 Navigate to the project directory:
 
 bash
