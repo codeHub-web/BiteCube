@@ -1,4 +1,4 @@
-# Demo Social Media Profile Editor Mobile App 👋
+# Demo Social Media Profile Editor Mobile App
 
 Welcome to the demo app that lets you edit your social media profile, including your profile picture, name, bio, and mood settings.
 
